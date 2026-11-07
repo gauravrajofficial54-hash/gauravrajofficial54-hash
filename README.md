@@ -1,14 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:052e16,45:0B1210,75:166534,100:F5B301&height=300&section=header&text=GAURAV%20KUMAR&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Tech%20Enthusiast%20%E2%80%A2%20Student%20%E2%80%A2%20Lifelong%20Learner&descSize=24&descAlignY=64&descColor=F5B301" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Gaurav Kumar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=F5B301&center=true&vCenter=true&width=800&height=55&lines=%F0%9F%91%8B+Hi%2C+I'm+Gaurav+Kumar;%F0%9F%8E%93+Pursuing+%40+Shobhit+University;%E2%9A%A1+Curious+About+Technology;%F0%9F%8C%B1+Learning+Something+New+Every+Day" alt="Typing SVG" />
 
 <br/>
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gauravrajofficial54-hash&label=PROFILE+VIEWS&color=F5B301&style=for-the-badge)
+
+
+
+
 ![Followers](https://img.shields.io/github/followers/gauravrajofficial54-hash?label=FOLLOWERS&style=for-the-badge&color=22C55E&labelColor=0B1210)
+
+
+
+
 ![Stars](https://img.shields.io/github/stars/gauravrajofficial54-hash?label=STARS&style=for-the-badge&color=F5B301&labelColor=0B1210)
+
+
 
 </div>
 
@@ -18,18 +30,36 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-a9b148391)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrgauravrajofficial)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C9brJQW7C/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0B1210?style=for-the-badge&logo=github&logoColor=F5B301)](https://github.com/gauravrajofficial54-hash)
+[
+
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/gaurav-kumar-a9b148391)
+[
+
+![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](https://www.instagram.com/mrgauravrajofficial)
+[
+
+![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
+](https://www.facebook.com/share/1C9brJQW7C/)
+[
+
+![GitHub](https://img.shields.io/badge/GITHUB-0B1210?style=for-the-badge&logo=github&logoColor=F5B301)
+
+](https://github.com/gauravrajofficial54-hash)
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Trinea/trinea/master/src/coder.gif" alt="coding" />
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 - 👋 Hi, I'm **Gaurav Kumar**
 - 🎓 Pursuing my studies at **Shobhit University**
@@ -39,20 +69,26 @@
 - 🤝 Open to collaborating on beginner-friendly projects
 - 📬 Reach me on LinkedIn, Instagram or Facebook
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="middle">
 
-<!--
-  🛠️ TECH STACK: jab apne skills pakke ho jayein, niche wali lines se comment hata do
-  aur icons ki list apne hisaab se badal lo (jaise c,python,html,css,js,git,github).
+<img src="assets/photo-frame.svg" width="340" alt="Gaurav Kumar" />
 
-<h2 align="center">🛠️ Tech Stack</h2>
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">🛠️ Skills Orbit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
-</div>
--->
 
----
+<img src="assets/skills-orbit.svg" width="100%" alt="Skills orbit" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">🎓 Education</h2>
 
@@ -77,7 +113,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -92,7 +128,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -102,7 +138,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center">⚡ Quote</h2>
 
@@ -114,7 +150,5 @@
 
 ### ⭐ Thanks for visiting my profile! ⭐
 **Let's learn and grow together.** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F5B301,50:166534,100:052e16&height=150&section=footer" width="100%" />
 
 </div>
