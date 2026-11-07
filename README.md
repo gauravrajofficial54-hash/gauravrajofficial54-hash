@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+<img src="https://komarev.com/ghpvc/?username=gauravrajofficial54-hash&label=PROFILE+VIEWS&color=F5B301&style=for-the-badge" viewBox="0 0 1000 300" width="1000" height="300">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#052e16"/><stop offset=".5" stop-color="#0B1210"/><stop offset="1" stop-color="#166534"/>
